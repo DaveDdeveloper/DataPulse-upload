@@ -1,0 +1,125 @@
+.fcc-btn {
+  background-color: #ff5540;
+  color: white;
+  border-radius: 20px;
+  padding: 15px 150px;
+  text-decoration: none;
+}
+.fcc-btn1{
+  background-color: #ff5540;
+  color: white;
+  border-radius: 20px;
+  padding: 15px 157px;
+  text-decoration: none;
+}
+.square {
+  height: 50px;
+  width: 130px;
+  background-color: Red;
+  border-radius:0%;
+}
+h1{
+    color: white;
+}
+.square5{
+  height: 50px;
+  width: 300px;
+  color: white;
+  background-color: Red;
+  border-radius:0%;
+}
+.fcc-btn2{
+  background-color: #ff5540;
+  color: white;
+  border-radius: 20px;
+  padding: 10px 30px;
+  text-decoration: none;
+}
+.fcc-btn3{
+  background-color: #ff5540;
+  color: white;
+  border-radius: 20px;
+  padding: 10px 30px;
+  text-decoration: none;
+}
+.fcc-btn4{
+  background-color: #ff5540;
+  color: white;
+  border-radius: 20px;
+  padding: 10px 30px;
+  text-decoration: none;
+}
+.fcc-btn5{
+  background-color: #ff5540;
+  color: white;
+  border-radius: 20px;
+  padding: 10px 30px;
+  text-decoration: none;
+}
+.square6{
+  height: 50px;
+  width: 300px;
+  color: white;
+  background-color: Red;
+  border-radius:0%;
+}
+.fcc-btn6{
+  background-color: #ff5540;
+  color: white;
+  border-radius: 20px;
+  padding: 10px 30px;
+  text-decoration: none;
+}
+.square4{
+  height: 50px;
+  width: 300px;
+  color: white;
+  background-color: Red;
+  border-radius:0%;
+}
+.box {
+  width: 50px;
+  padding: 0px;
+  border: 0px solid #ccc;
+  border-radius: 10px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+.box {
+  width: 50px;
+  padding: 0px;
+  border: 0px solid #ccc;
+  border-radius: 10px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+.square7 {
+  height: 310px;
+  width:350px;
+  background-color: White;
+  border-radius:20px;
+}
+.square8 {
+  height: 310px;
+  width:350px;
+  background-color: White;
+  border-radius:20px;
+}
+select{
+    height: 40px;
+    width: 200px;
+    border-radius: 10px;
+}
+input{
+    height: 40px;
+    width: 195px;
+    border-radius: 10px;
+}
+h5{
+    color: white;
+}
+footer{
+  padding:20px;
+  margin-top:20px;
+  color:#ffffff;
+  background-color:#ff1f00;
+  text-align: center;
+}
